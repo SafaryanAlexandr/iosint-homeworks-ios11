@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91799A17-B191-4CE6-85F3-CBDE2AF4C8FC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F58BCA6-0319-4798-8D27-8F163DA52B8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Navigation/Profile/ProfileHeaderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ProfileHeaderView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0F58BCA6-0319-4798-8D27-8F163DA52B8C - ca50657d99b1abfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.statusLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "0F58BCA6-0319-4798-8D27-8F163DA52B8C - 20e7f12d3d5947ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.statusLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "0F58BCA6-0319-4798-8D27-8F163DA52B8C - 2ef0e1825097608e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.statusLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "0F58BCA6-0319-4798-8D27-8F163DA52B8C - 5f9cf2d55a6ca62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.statusLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "0F58BCA6-0319-4798-8D27-8F163DA52B8C - f97ad311d3869ff2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.init(frame: __C.CGRect) -&gt; Navigation.ProfileHeaderView"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "234">
+               </Location>
+               <Location
+                  uuid = "0F58BCA6-0319-4798-8D27-8F163DA52B8C - 661c6f270a4b4e10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Navigation.ProfileHeaderView&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B48DF6A6-4225-4C56-93B5-465A0CA9FF4F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Navigation/Profile/ProfileHeaderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ProfileHeaderView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B48DF6A6-4225-4C56-93B5-465A0CA9FF4F - 80b9cc9b7a055098"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.avatarImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B48DF6A6-4225-4C56-93B5-465A0CA9FF4F - 56270d048dc0bc8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.avatarImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "B48DF6A6-4225-4C56-93B5-465A0CA9FF4F - 4219d74e5d92f9ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.avatarImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "B48DF6A6-4225-4C56-93B5-465A0CA9FF4F - a5f65251a4757523"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.avatarImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "B48DF6A6-4225-4C56-93B5-465A0CA9FF4F - f97ad311d3869fb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.init(frame: __C.CGRect) -&gt; Navigation.ProfileHeaderView"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "398">
+               </Location>
+               <Location
+                  uuid = "B48DF6A6-4225-4C56-93B5-465A0CA9FF4F - 661c6f270a4b4e52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Navigation.ProfileHeaderView&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "357">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B07FBDA2-C621-4C06-8F2B-1E2D1934390C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Navigation/Profile/ProfileHeaderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ProfileHeaderView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B07FBDA2-C621-4C06-8F2B-1E2D1934390C - 97731dc4d29495b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.statusTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B07FBDA2-C621-4C06-8F2B-1E2D1934390C - a6e15a45ea56c1a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.statusTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "B07FBDA2-C621-4C06-8F2B-1E2D1934390C - 52d3678fba203a60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.statusTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "B07FBDA2-C621-4C06-8F2B-1E2D1934390C - 9123f8631d57c2c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.statusTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "B07FBDA2-C621-4C06-8F2B-1E2D1934390C - f97ad311d3869f51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.init(frame: __C.CGRect) -&gt; Navigation.ProfileHeaderView"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "531">
+               </Location>
+               <Location
+                  uuid = "B07FBDA2-C621-4C06-8F2B-1E2D1934390C - 661c6f270a4b4eb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navigation.ProfileHeaderView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Navigation.ProfileHeaderView&gt;"
+                  moduleName = "Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.safaran/%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/IOS%20%20swift/UI/UIScrollView(homework)/Navigation(ScrollView)/Navigation/Profile/ProfileHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
